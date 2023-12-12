@@ -1,4 +1,3 @@
-Before start let me told you the reason why we don't upload this on github becuase we have some files that over size for uploading to github.
 Our project is English Vcabolary Game. We have Coding Folder and Game Folder Files and one doucumentation file.
 
 
